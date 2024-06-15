@@ -1,7 +1,7 @@
 # Database-Management-using-SQL-Server
 
 # Overview
-This repository contains a detailed SQL script to set up a comprehensive database named SWC_DB. The database is designed to manage information about purchasers, suppliers, part types, parts, and purchases. The script includes table creation, data insertion, views, triggers, and stored procedures to maintain data integrity and facilitate database operations.
+This repository contains a detailed SQL script and SWC pdf file which contains detailed information of this project. The database named SWC_DB is designed to manage information about purchasers, suppliers, part types, parts, and purchases. The script includes table creation, data insertion, views, triggers, and stored procedures to maintain data integrity and facilitate database operations.
 
 # Database Setup Details
 
