@@ -90,3 +90,6 @@ Run the Script: Open the script file (e.g., database_setup.sql) and execute it.
 The script includes test insertions and queries to verify:
 Proper setup of the database.
 Correct functioning of constraints, triggers, and views.
+
+![image](https://github.com/Drashti199801/Database-Management-using-SQL-Server/assets/156224544/bbfa645e-8e54-43ef-ab63-f083e81c726b)
+
